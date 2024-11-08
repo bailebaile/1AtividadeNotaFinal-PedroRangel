@@ -1,0 +1,47 @@
+body {
+    font-family: Arial;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 20px;
+}
+
+.cartao {
+    background-color: white;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.profissao {
+    color: #666;
+    margin-bottom: 20px;
+}
+
+.info {
+    background-color: #f0f0f0;
+    padding: 10px;
+    margin: 20px 0;
+}
+
+.habilidades span {
+    background-color: #e0e0e0;
+    padding: 5px 10px;
+    margin: 5px;
+    display: inline-block;
+    border-radius: 5px;
+}
+
+.contatos {
+    margin-top: 20px;
+}
+
+.contatos a {
+    background-color: #4169E1;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+}
